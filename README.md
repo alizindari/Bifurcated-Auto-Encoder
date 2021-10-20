@@ -43,8 +43,13 @@ There are 3 main steps for segmenting the covid-19 infected regions :
 ![Alt text](https://github.com/alizindari/Bifurcated-Auto-Encoder/blob/main/images/overview.png "Overview")
 
 ## Generating new data
-For having some new data in the dataset we first trained a pix2pix GAN only on the infected regions of dataset. By doing so, the network has learned the process of convertign a binary infected region to a real one. Then the infected part was replaced with the one in dataset.
+For having some new data in the dataset we first trained a pix2pix GAN only on the infected regions of dataset. By doing so, the network has learned the process of converting a binary infected region to a real one. Then the infected part was replaced with the one in dataset.
 ![Alt text](https://github.com/alizindari/Bifurcated-Auto-Encoder/blob/main/images/replacing.png "Generating new data")
+
+# References 
+- <a href="https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/" target="_top">pix2pix tutorial</a>
+
+
 
 
 
