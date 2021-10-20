@@ -1,6 +1,6 @@
 # Bifurcated Auto Encoder based on Attention Mechanism
 1 - Implementation of a network for segmentation of covid-19 infected regions in CT-images. <br>
-2 - A method based on generative models for generating synthetic infected regions. <br> <br>
+2 - A method based on generative models for generating synthetic infected regions. <br><br>
 **For more details please refer to our <a href="https://arxiv.org/ftp/arxiv/papers/2108/2108.08895.pdf" target="_top">paper</a>
 
 Different parts of the network are listed below :
